@@ -1,5 +1,3 @@
-# jacobcamp.github.io
-Jacob Camp's Website
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
